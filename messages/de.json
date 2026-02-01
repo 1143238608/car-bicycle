@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "cars": "Autos",
+    "bicycles": "Fahrräder",
+    "reviews": "Bewertungen",
+    "guides": "Kaufratgeber",
+    "maintenance": "Wartung",
+    "news": "Nachrichten"
+  },
+  "home": {
+    "hero": {
+      "title": "Auto- und Fahrradzentrum",
+      "subtitle": "Professionelle Fahrzeuginformationsplattform mit den neuesten Bewertungen, Kaufratgebern und Wartungstipps"
+    }
+  },
+  "footer": {
+    "about": "Über Uns",
+    "contact": "Kontakt",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "copyright": "Alle Rechte Vorbehalten"
+  }
+}

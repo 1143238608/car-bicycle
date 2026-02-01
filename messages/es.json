@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "cars": "Automóviles",
+    "bicycles": "Bicicletas",
+    "reviews": "Reseñas",
+    "guides": "Guía de Compra",
+    "maintenance": "Mantenimiento",
+    "news": "Noticias"
+  },
+  "home": {
+    "hero": {
+      "title": "Centro de Automóviles y Bicicletas",
+      "subtitle": "Plataforma profesional de información vehicular que ofrece las últimas reseñas, guías de compra y consejos de mantenimiento"
+    }
+  },
+  "footer": {
+    "about": "Sobre Nosotros",
+    "contact": "Contacto",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "copyright": "Todos los Derechos Reservados"
+  }
+}

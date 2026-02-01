@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Home",
+    "cars": "Cars",
+    "bicycles": "Bicycles",
+    "reviews": "Reviews",
+    "guides": "Buying Guide",
+    "maintenance": "Maintenance",
+    "news": "News"
+  },
+  "home": {
+    "hero": {
+      "title": "Car & Bicycle Center",
+      "subtitle": "Professional vehicle information platform providing latest reviews, buying guides and maintenance tips"
+    }
+  },
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "copyright": "All Rights Reserved"
+  }
+}

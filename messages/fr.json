@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "cars": "Automobiles",
+    "bicycles": "Vélos",
+    "reviews": "Avis",
+    "guides": "Guide d'Achat",
+    "maintenance": "Entretien",
+    "news": "Actualités"
+  },
+  "home": {
+    "hero": {
+      "title": "Centre Automobile et Vélo",
+      "subtitle": "Plateforme professionnelle d'information sur les véhicules offrant les derniers avis, guides d'achat et conseils d'entretien"
+    }
+  },
+  "footer": {
+    "about": "À Propos",
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Téléphone",
+    "address": "Adresse",
+    "copyright": "Tous Droits Réservés"
+  }
+}

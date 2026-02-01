@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "홈",
+    "cars": "자동차",
+    "bicycles": "자전거",
+    "reviews": "리뷰",
+    "guides": "구매 가이드",
+    "maintenance": "유지보수",
+    "news": "뉴스"
+  },
+  "home": {
+    "hero": {
+      "title": "자동차 및 자전거 센터",
+      "subtitle": "최신 리뷰, 구매 가이드 및 유지보수 팁을 제공하는 전문 차량 정보 플랫폼"
+    }
+  },
+  "footer": {
+    "about": "회사 소개",
+    "contact": "연락처",
+    "email": "이메일",
+    "phone": "전화",
+    "address": "주소",
+    "copyright": "모든 권리 보유"
+  }
+}

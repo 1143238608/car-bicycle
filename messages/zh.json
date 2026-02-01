@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "首页",
+    "cars": "汽车专区",
+    "bicycles": "自行车专区",
+    "reviews": "专业评测",
+    "guides": "购车指南",
+    "maintenance": "维护保养",
+    "news": "新闻资讯"
+  },
+  "home": {
+    "hero": {
+      "title": "汽车与自行车中心",
+      "subtitle": "专业的车辆资讯平台，为您提供最新的评测、购买指南和维护技巧"
+    }
+  },
+  "footer": {
+    "about": "关于我们",
+    "contact": "联系方式",
+    "email": "邮箱",
+    "phone": "电话",
+    "address": "地址",
+    "copyright": "版权所有"
+  }
+}

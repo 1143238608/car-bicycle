@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "cars": "自動車",
+    "bicycles": "自転車",
+    "reviews": "レビュー",
+    "guides": "購入ガイド",
+    "maintenance": "メンテナンス",
+    "news": "ニュース"
+  },
+  "home": {
+    "hero": {
+      "title": "自動車・自転車センター",
+      "subtitle": "最新のレビュー、購入ガイド、メンテナンスのヒントを提供する専門的な車両情報プラットフォーム"
+    }
+  },
+  "footer": {
+    "about": "私たちについて",
+    "contact": "お問い合わせ",
+    "email": "メール",
+    "phone": "電話",
+    "address": "住所",
+    "copyright": "全著作権所有"
+  }
+}
