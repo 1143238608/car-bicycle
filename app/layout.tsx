@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import Script from 'next/script'
 import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
@@ -28,6 +29,20 @@ export default function RootLayout({
           {children}
         </main>
         <Footer />
+        <Script id="popcash-ad" strategy="afterInteractive">
+          {`
+            var uid = '499396';
+            var wid = '751365';
+            var pop_tag = document.createElement('script');
+            pop_tag.src='//cdn.popcash.net/show.js';
+            document.body.appendChild(pop_tag);
+            pop_tag.onerror = function() {
+              pop_tag = document.createElement('script');
+              pop_tag.src='//cdn2.popcash.net/show.js';
+              document.body.appendChild(pop_tag)
+            };
+          `}
+        </Script>
       </body>
     </html>
   )
