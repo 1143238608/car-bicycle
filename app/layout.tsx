@@ -13,6 +13,7 @@ export const metadata: Metadata = {
   keywords: '汽车, 自行车, 车辆评测, 购车指南, 维护保养, 新能源汽车, 电动自行车',
   other: {
     'ppck-ver': '401215a0184ba59e37ab9af9e96cd22a',
+    'impact-site-verification': '5d692626-06d0-4e63-afd9-22015c0c6b55',
   },
 }
 
